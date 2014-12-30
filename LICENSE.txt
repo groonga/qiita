@@ -1,0 +1,5 @@
+CC BY-SA 4.0 or later
+
+Author: The Groonga Project
+
+http://creativecommons.org/licenses/by-sa/4.0/deed
